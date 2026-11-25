@@ -10,7 +10,8 @@ Target Technology: Generic GAAFET (Nanosheet FET, Forksheet FET)
 
 2. Reference
 This PDK (2nm Forksheet FET) was developed and published in the following conference paper:
-Y. Shin et al., "FS2K: A Forksheet FET Technology Library and a Study of VLSI Prediction for 2nm and Beyond," 2024 IEEE International Symposium on Circuits and Systems (ISCAS), May 2024. DOI: 10.1109/ISCAS58744.2024.10558224
+Y. Shin et al., "FS2K: A Forksheet FET Technology Library and a Study of VLSI Prediction for 2nm and Beyond," 2024 IEEE International Symposium on Circuits and Systems (ISCAS), May 2024.
+S. Kim et al., “NPUWattch: ML-based Power, Area, and Timing Modeling for Neural Accelerators,”  IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
 3. License
 This PDK is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
